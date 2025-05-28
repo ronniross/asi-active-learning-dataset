@@ -12,7 +12,7 @@ asi-active-learning-dataset is a comprehensive collection of Machine Learning (M
 
 This module contains the ethically aligned synthetic datasets generated through the active learning pipelines shared in this repository. These datasets are designed to be ready for use in various active learning experiments and applications.
 
-### 2. Generation Scripts
+### 2. Inference Generation Scripts
 
 This module houses the Python (`.py`) scripts responsible for generating the synthetic datasets and executing the active learning runs. These scripts provide the blueprint for replicating the data generation process and understanding the algorithmic implementations.
 
