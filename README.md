@@ -26,6 +26,8 @@ This module contains the raw Jupyter Notebook (`.ipynb`) files of the active lea
 
 Each "experiment run" within this repository is uniquely named to reflect its specific nature and purpose. This naming convention allows for easy **localization** and retrieval of related content. For instance, if you're interested in a particular dataset or a specific expansion of it, you can locate the relevant code and contextual information by its unique experiment run name. Each "experiment run" cal also have many "batches".
 
+.ipynb files are shared first then eventually I'll convert into .csv and .parquet files.
+
 > ## Disclaimer
 > > 
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
