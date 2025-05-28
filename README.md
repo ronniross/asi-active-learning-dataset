@@ -24,6 +24,8 @@ This module contains the raw Jupyter Notebook (`.ipynb`) files of the active lea
 * **Complete Context:** Provides full visibility into the reasoning and decisions made during the dataset generation and model training processes.
 * **Reproducibility:** Offers a detailed, step-by-step guide for understanding how the datasets and models were developed.
 
+Each "experiment run" within this repository is uniquely named to reflect its specific nature and purpose. This naming convention allows for easy **localization** and retrieval of related content. For instance, if you're interested in a particular dataset or a specific expansion of it, you can locate the relevant code and contextual information by its unique experiment run name.
+
 > ## Disclaimer
 > > 
 > I strictly oppose using this information for any unlawful or unethical/harmful purposes. I am not liable for any improper use of the information shared in this repository.
